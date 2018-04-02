@@ -1,0 +1,13 @@
+C:\Users\Home1\source\repos\calculator123\calculator123\bin\Debug\calculator123.exe.config
+C:\Users\Home1\source\repos\calculator123\calculator123\bin\Debug\calculator123.exe
+C:\Users\Home1\source\repos\calculator123\calculator123\bin\Debug\calculator123.pdb
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.csprojResolveAssemblyReference.cache
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.Form1.resources
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.Properties.Resources.resources
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.csproj.GenerateResource.Cache
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.csproj.CoreCompileInputs.cache
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.exe
+C:\Users\Home1\source\repos\calculator123\calculator123\obj\Debug\calculator123.pdb
+C:\Users\Home1\source\repos\calculator123\calculator123\bin\Debug\AWSSDK.Core.dll
+C:\Users\Home1\source\repos\calculator123\calculator123\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Home1\source\repos\calculator123\calculator123\bin\Debug\AWSSDK.Core.xml
